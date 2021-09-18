@@ -8,52 +8,70 @@ redirect_from:
 ---
 
 {% include base_path %}
+<br>
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+# Education
+* **PhD Candidate**, Psychology (Cognitive Neuroscience), *2018 – Present*
+* **MA**, Psychology (Cognitive Neuroscience), *2016 – 2018*
+  * *Thesis:* Memory Bias for Threat-Related Information in Social Anxiety
+* **BSc**, Honours Psychology with Biology Minor, *2012 – 2016*
+  * *Thesis:* Attention and Contrast Judgments: Does Attention Alter Appearance?
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+<br>
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+# Proficiencies
 
-Publications
-======
-  <ul>{% for post in site.publications %}
+| Skill                      | Software                                        |
+|----------------------------|-------------------------------------------------|
+| Programming                | R, Python, HTML, CSS, E-Prime                   |
+| Data Collection/Management | Qualtrics, Excel, OSF, Google Suite             |
+| Data Analysis              | R, Python, jamovi, JASP, SPSS                   |
+| Creative                   | GIMP, Audacity                                  |
+
+<br>
+
+# Publications
+  <ol>
+    {% assign sorted = site.publications | sort: 'date' | reverse %}
+    {% for post in sorted %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
+    {% endfor %}
+  </ol>
+  <br>
+
+# Talks
+  <ol>
+    {% assign sorted = site.talks | sort: 'date' | reverse %}
+    {% for post in sorted %}
     {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
+    {% endfor %}
+  </ol>
+  <br>
+
+# Teaching
+  <ol>
+    {% assign sorted = site.teaching | sort: 'date' | reverse %}
+    {% for post in sorted %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+    {% endfor %}
+  </ol>
+  <br>
+
+# Service and Leadership
+* Associate Editor
+  * Mind Pad (Canadian Psychological Association)
+* Peer Reviewer
+  * Personality and Individual Differences
+  * Quarterly Journal of Experimental Psychology
+  * PLOS One
+  * Mind Pad (Canadian Psychological Association)
+  * Journal of Gerontology: Psychological Sciences
+  * Journal of Experimental Psychology: Learning, Memory, and Cognition
+* Conference Organizer
+  * University of Waterloo Psychology Discovery Conference 2020
+  * Canadian Society for Brain, Behaviour, and Cognitive Science 2019 Conference
+* Leadership Positions
+  * University of Waterloo Campus Wellness Student Advisory Committee Member
+  * Student Representative, Project Review Committee (Graduate Studies Endowment Fund)
+  * Secretary, Graduate Association of Students in Psychology
+  * Panel Member (Mental Health Experts), President's Advisory Committee on Student Mental Health

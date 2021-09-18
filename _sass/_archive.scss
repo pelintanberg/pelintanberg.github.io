@@ -15,10 +15,10 @@
   }
 
   a {
-    text-decoration: underline;
+    //text-decoration: underline;
 
     &:hover {
-      text-decoration: underline;
+      //text-decoration: underline;
 
       img {
         box-shadow: 0 0 10px rgba(#000, 0.25);
@@ -35,16 +35,23 @@
   border-bottom: 1px solid $border-color;
 
   + .list__item .archive__item-title {
-    margin-top: 0.5em;
+    margin-top: 0.25em;
   }
 }
 
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
+  color: $info-color;
+  text-decoration: none;
 
   a + a {
     opacity: 0.5;
+    text-decoration: none;
+  }
+
+  a {
+    text-decoration: none;
   }
 }
 
@@ -54,12 +61,18 @@
   .archive__item-title {
     margin-top: 1em;
     border-bottom: none;
+    text-decoration: none;
+
+    a {
+      text-decoration: none;
+    }
   }
 }
 
 .archive__item-excerpt {
-  margin-top: 0;
-  font-size: $type-size-6;
+  margin-top: 0.25em;
+  margin-bottom: 0em;
+  font-size: $type-size-5;
 
   & + p {
     text-indent: 0;
@@ -76,14 +89,18 @@
 
 .archive__item:hover {
   .archive__item-teaser {
-    box-shadow: 0 0 10px rgba(#000, 0.25);
+    //box-shadow: 0 0 10px rgba(#000, 0.25);
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    //text-decoration: underline;
   }
 }
 
+.archive__item-citation {
+  font-size: $type-size-6;
+  margin-top: 0em;
+}
 
 /*
    List view
@@ -126,6 +143,7 @@
 
   .archive__item-excerpt {
     display: none;
+    margin-bottom: 0em;
   }
 
   @include breakpoint($small) {
@@ -147,6 +165,7 @@
     .archive__item-excerpt {
       display: block;
       font-size: $type-size-6;
+      margin-bottom: 0em;
     }
   }
 }

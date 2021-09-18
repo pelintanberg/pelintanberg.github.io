@@ -41,6 +41,7 @@ $type-size-5                : 1em;      // ~16px
 $type-size-6                : 0.75em;   // ~12px
 $type-size-7                : 0.6875em; // ~11px
 $type-size-8                : 0.625em;  // ~10px
+$type-size-syntax           : 0.875em;  // ~14px
 
 
 /*
@@ -64,7 +65,7 @@ $primary-color              : #7a8288;
 $success-color              : #62c462;
 $warning-color              : #f89406;
 $danger-color               : #ee5f5b;
-$info-color                 : #52adc8;
+$info-color                 : #1d6bd1; //#00b884
 
 /* brands */
 $behance-color              : #1769FF;
@@ -72,7 +73,7 @@ $dribbble-color             : #ea4c89;
 $facebook-color             : #3b5998;
 $flickr-color               : #ff0084;
 $foursquare-color           : #0072b1;
-$github-color               : #171516;
+$github-color               : #6e5494; //#171516;
 $google-plus-color          : #dd4b39;
 $instagram-color            : #517fa4;
 $lastfm-color               : #d51007;
@@ -85,8 +86,11 @@ $tumblr-color               : #32506d;
 $twitter-color              : #55acee;
 $vimeo-color                : #1ab7ea;
 $vine-color                 : #00bf8f;
-$youtube-color              : #bb0000;
+$youtube-color              : #c0b2b2;
 $xing-color                 : #006567;
+$orcid-color                : #a8cc3c;
+$researchgate-color         : #3ec2b2;
+$google-scholar-color       : #3f7ee8;
 
 
 /* links */
