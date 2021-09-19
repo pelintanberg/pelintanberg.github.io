@@ -30,7 +30,7 @@ gallery:
     title: "UW Stand Up to Stigma Blackboard Campaign 2014 Poster"
 ---
 
-<br>
+<hr>
 
 # Music
 
@@ -40,7 +40,7 @@ I listen to music a bunch. Here's what I've been listening to recently:
 
 Powered by [SmarterPlaylists](http://smarterplaylists.playlistmachinery.com/). Updates monthly.
 
-<br>
+<hr>
 
 # Graphic design
 

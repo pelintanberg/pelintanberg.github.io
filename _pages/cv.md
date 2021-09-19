@@ -8,7 +8,8 @@ redirect_from:
 ---
 
 {% include base_path %}
-<br>
+
+<hr>
 
 # Education
 * **PhD Candidate**, Psychology (Cognitive Neuroscience), *2018 – Present*
@@ -17,7 +18,7 @@ redirect_from:
 * **BSc**, Honours Psychology with Biology Minor, *2012 – 2016*
   * *Thesis:* Attention and Contrast Judgments: Does Attention Alter Appearance?
 
-<br>
+<hr>
 
 # Proficiencies
 
@@ -28,7 +29,7 @@ redirect_from:
 | Data Analysis              | R, Python, jamovi, JASP, SPSS                   |
 | Creative                   | GIMP, Audacity                                  |
 
-<br>
+<hr>
 
 # Publications
   <ol>
@@ -37,7 +38,7 @@ redirect_from:
     {% include archive-single-cv.html %}
     {% endfor %}
   </ol>
-  <br>
+<hr>
 
 # Talks
   <ol>
@@ -46,7 +47,7 @@ redirect_from:
     {% include archive-single-talk-cv.html %}
     {% endfor %}
   </ol>
-  <br>
+<hr>
 
 # Teaching
   <ol>
@@ -55,7 +56,7 @@ redirect_from:
     {% include archive-single-cv.html %}
     {% endfor %}
   </ol>
-  <br>
+<hr>
 
 # Service and Leadership
 * Associate Editor
