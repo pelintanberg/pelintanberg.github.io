@@ -25,6 +25,28 @@
       }
     }
   }
+  
+  blockquote {
+    margin: 2em 1em 2em 0;
+    padding-left: 1em;
+    padding-right: 1em;
+    //font-style: italic;
+    //border-left: 0.25em solid $primary-color;
+    border-left: 0.25em solid $info-color;
+  
+    cite {
+      font-style: italic;
+  
+      &:before {
+        content: "\2014";
+        padding-right: 5px;
+      }
+    }
+  
+    h3 {
+      padding-top: 2px;
+    }
+  }
 }
 
 .archive__subtitle {
