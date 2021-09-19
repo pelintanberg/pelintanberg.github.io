@@ -8,23 +8,30 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! I'm Ryan. I'm a doctoral researcher at the University of Waterloo. I study ***recurrent memories***, or memories of the personal past that spring to mind unintentionally and repetitively. For example, I tackle questions like:
+Hi there! I'm Ryan. 
 
-### <span style="color: #1d6bd1;"> What predicts recurrent memories? </span> 🔮
-Are there properties of specific memories (e.g., their emotionality) or the people that experience them (e.g., their age) that predict the occurrence of recurrent memories?
-### <span style="color: #1d6bd1;"> Are recurrent memories related to mental health? </span> 🤕
+I'm a doctoral researcher at the University of Waterloo. I study ***recurrent memories***, or memories of the personal past that spring to mind unintentionally and repetitively. For example, I tackle questions like:
+
+> ### What predicts recurrent memories? 🔮
+Are there properties of specific memories (e.g., their emotionality) or people (e.g., their age) that predict how recurrent memories are experienced?
+
+> ### Are recurrent memories related to mental health? 🤕
 Do recurrent memories or their properties predict symptoms of mental health disorders? Can individual differences (e.g., trait emotion regulation) alter these relationships?
-### <span style="color: #1d6bd1;"> What are recurrent memories about? </span> 📝
-What types of events do people have recurrent memories about? Can the contents of recurrent memories distinguish between those that are harmless or harmful?
-<br>
-<br>
 
-# Research interests
-* <span style="font-size: 15px;"> autobiographical memory </span>
-* <span style="font-size: 15px;"> recurrent memories </span>
-* <span style="font-size: 15px;"> emotion </span>
-* <span style="font-size: 15px;"> mental health </span>
-* <span style="font-size: 15px;"> computational methods </span>
+> ### What are recurrent memories about? 📝
+What types of events do people have recurrent memories about? Can the contents of recurrent memories distinguish between those that are harmless or harmful?
+
+> ### How can computational methods enhance memory research? ⚙️
+Can techniques like machine learning and natural language processing allow us to answer new questions about autobiographical memories?
+
+Outside of research, I'm a fan of hipster music, hipster tabletop role-playing games, and insisting that I'm not actually a hipster.
+
+<!-- # Research interests
+* autobiographical memory
+* recurrent memories
+* emotion
+* mental health
+* computational methods -->
 
 <!-- `test code block`
 
