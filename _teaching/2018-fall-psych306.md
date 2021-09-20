@@ -9,6 +9,6 @@ location: "Waterloo, ON"
 ---
 
 * Colour Detection, Discrimination, and Appearance
-* Colour-based Visual Illusions
+* Additive and Subtractive Colour Mixing
 * Opponent Colour Theory
 * Colour Constancy
