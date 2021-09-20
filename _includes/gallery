@@ -27,7 +27,7 @@
       >
         <img src=
           {% if img.image_path contains "://" %}
-            "{{ img.image_path }}"
+            "//images.weserv.nl/?url={{ img.url | replace: 'http://','' | replace: 'https://','' }}{{ img.url }}&w=800&h=800&fit=cover&a=attention&t=square"
           {% else %}
             "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
           {% endif %}
