@@ -27,18 +27,18 @@
       >
         <img src=
           {% if img.image_path contains "://" %}
-            "//images.weserv.nl/?url={{ img.url | replace: 'http://','' | replace: 'https://','' }}{{ img.url }}&w=800&h=800&fit=cover&a=attention&t=square"
+            "//images.weserv.nl/?url={{ img.image_path }}&w=800&h=800&fit=cover&a=attention&t=square"
           {% else %}
-            "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
+            "//images.weserv.nl/?url={{ img.image_path | prepend: "/images/" | prepend: base_path }}&w=800&h=800&fit=cover&a=attention&t=square"
           {% endif %}
           alt="{% if img.alt %}{{ img.alt }}{% endif %}">
       </a>
     {% else %}
       <img src=
         {% if img.image_path contains "://" %}
-          "{{ img.image_path }}"
+          "//images.weserv.nl/?url={{ img.image_path }}&w=800&h=800&fit=cover&a=attention&t=square"
         {% else %}
-          "{{ img.image_path | prepend: "/images/" | prepend: base_path }}"
+          "//images.weserv.nl/?url={{ img.image_path | prepend: "/images/" | prepend: base_path }}&w=800&h=800&fit=cover&a=attention&t=square"
         {% endif %}
         alt="{% if img.alt %}{{ img.alt }}{% endif %}">
     {% endif %}
