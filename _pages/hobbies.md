@@ -4,28 +4,28 @@ title: "Hobbies"
 permalink: /hobbies/
 author_profile: true
 gallery:
-  - url: https://i.imgur.com/mTamh71.png
-    image_path: https://i.imgur.com/mTamh71.png
+  - url: https://ryancyeung.github.io/images/UW_GASP_Logo_2020.png
+    image_path: UW_GASP_Logo_2020.png
     alt: "UW Graduate Association for Students in Psychology 2020 Logo"
     title: "UW Graduate Association for Students in Psychology 2020 Logo"
-  - url: https://i.imgur.com/pdcrDQB.png
-    image_path: https://i.imgur.com/pdcrDQB.png
+  - url: https://ryancyeung.github.io/images/UW_GASP_Logo_ShirtMockup_2020.png
+    image_path: UW_GASP_Logo_ShirtMockup_2020.png
     alt: "UW Graduate Association for Students in Psychology 2020 Logo Shirt Mockup"
     title: "UW Graduate Association for Students in Psychology 2020 Logo Shirt Mockup"
-  - url: https://i.imgur.com/PIwPS9M.jpg
-    image_path: https://i.imgur.com/PIwPS9M.jpg
+  - url: https://ryancyeung.github.io/images/UW_PDC_AbstractBook_Cover_2020.jpg
+    image_path: UW_PDC_AbstractBook_Cover_2020.jpg
     alt: "UW Psychology Discovery Conference 2020 Abstract Book"
     title: "UW Psychology Discovery Conference 2020 Abstract Book"
-  - url: https://i.imgur.com/eAmsl71.png
-    image_path: https://i.imgur.com/eAmsl71.png
+  - url: https://ryancyeung.github.io/images/UW_StandUp_Spotlight_Poster_2016.png
+    image_path: UW_StandUp_Spotlight_Poster_2016.png
     alt: "UW Stand Up to Stigma Spotlight 2016 Poster"
     title: "UW Stand Up to Stigma Spotlight 2016 Poster"
-  - url: https://i.imgur.com/QL4BMIS.jpg
-    image_path: https://i.imgur.com/QL4BMIS.jpg
+  - url: https://ryancyeung.github.io/images/UW_Jack_SelfCareFair_Banner_2015.jpg
+    image_path: UW_Jack_SelfCareFair_Banner_2015.jpg
     alt: "UW Jack.org Self-Care Fair 2015 Banner"
     title: "UW Jack.org Self-Care Fair 2015 Banner"
-  - url: https://i.imgur.com/ZaV6KcV.jpg
-    image_path: https://i.imgur.com/ZaV6KcV.jpg
+  - url: https://ryancyeung.github.io/images/UW_StandUp_Blackboard_Poster_2014.jpg
+    image_path: UW_StandUp_Blackboard_Poster_2014.jpg
     alt: "UW Stand Up to Stigma Blackboard Campaign 2014 Poster"
     title: "UW Stand Up to Stigma Blackboard Campaign 2014 Poster"
 ---
