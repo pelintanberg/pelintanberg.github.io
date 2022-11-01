@@ -12,7 +12,9 @@ redirect_from:
 <hr>
 
 # Education
-* **PhD Candidate**, Psychology (Cognitive Neuroscience), *2018 – Present*
+* **PhD**, Psychology (Cognitive Neuroscience), *2018 – 2022*
+  * *Thesis:* The Persistence of Involuntary Memory: Analyzing Phenomenology, Links to Mental Health, and Content
+  * Graduate Diploma, Computational Data Analytics for the Social Sciences and Humanities
 * **MA**, Psychology (Cognitive Neuroscience), *2016 – 2018*
   * *Thesis:* Memory Bias for Threat-Related Information in Social Anxiety
 * **BSc**, Honours Psychology with Biology Minor, *2012 – 2016*
@@ -62,12 +64,14 @@ redirect_from:
 * Associate Editor
   * Mind Pad (Canadian Psychological Association)
 * Peer Reviewer
+  * Behavior Research Methods
+  * Journal of Experimental Psychology: Learning, Memory, and Cognition
+  * PLOS One
+  * Acta Psychologica
   * Personality and Individual Differences
   * Quarterly Journal of Experimental Psychology
-  * PLOS One
   * Mind Pad (Canadian Psychological Association)
   * Journal of Gerontology: Psychological Sciences
-  * Journal of Experimental Psychology: Learning, Memory, and Cognition
 * Conference Organizer
   * University of Waterloo Psychology Discovery Conference 2020
   * Canadian Society for Brain, Behaviour, and Cognitive Science 2019 Conference
