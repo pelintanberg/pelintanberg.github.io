@@ -10,6 +10,7 @@ citation: 'Yeung, R. C., & Fernandes, M. A. (2022). Machine learning to detect i
 doi: https://doi.org/10.3758/s13428-022-01801-y
 osf: https://doi.org/10.17605/OSF.IO/3HS56
 github: https://github.com/ryancyeung/invalid-text-detect
+firstauthor: "RCY"
 ---
 We propose and implement a supervised machine learning approach that can mimic the accuracy of human coding, but without the need to hand-code entire text datasets. Using autobiographical memory texts, we accurately detected invalid texts with performance near human coding, significantly outperforming existing data quality indicators.
 
