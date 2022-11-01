@@ -37,8 +37,21 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.date %}<p class="page__meta"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }}</p>{% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}}, {{ post.venue }},  {{post.location}} {% endif %}
-    {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
+
+    <!-- talk date -->
+    {% if post.date %}<p class="page__meta"><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ post.date | date: '%B %d, %Y' }} </p>{% endif %}
+    
+    <!-- talk venue -->
+    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description"> <i> {{post.type}}, {{ post.venue }},  {{post.location}} </i> {% endif %}
+    
+    <!-- talk excerpt -->
+    <!--{% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description"> {{ post.excerpt | markdownify }} </p>{% endif %}-->
+    <p class="archive__item-excerpt">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }} 
+    <!-- talk url -->
+      {% if post.talkurl %}
+      <a href="{{ post.talkurl }}"><i class="fab fa-brands fa-youtube" aria-hidden="true"></i></a>
+      {% endif %}
+    </p>
+
   </article>
 </div>
