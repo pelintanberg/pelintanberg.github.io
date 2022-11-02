@@ -25,4 +25,5 @@ group :jekyll_plugins do
   gem 'jekyll-sitemap'
   gem 'hawkins'
   gem 'jekyll-target-blank'
+  gem 'faraday-retry'
 end
