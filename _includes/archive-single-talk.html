@@ -49,7 +49,7 @@
     <p class="archive__item-excerpt">{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }} 
     <!-- talk url -->
       {% if post.talkurl %}
-      <a href="{{ post.talkurl }}"><i class="fab fa-brands fa-youtube" aria-hidden="true"></i></a>
+      <a href="{{ post.talkurl }}" target="_blank"><i class="fab fa-brands fa-youtube" aria-hidden="true"></i></a>
       {% endif %}
     </p>
 
