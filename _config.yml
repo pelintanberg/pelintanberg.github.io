@@ -6,120 +6,117 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-locale                   : "en-CA"
-title                    : "Ryan Yeung"
-title_separator          : "-"
-name                     : &name "Ryan Yeung"
-description              : &description "Ryan Yeung's Personal Webpage"
-url                      : https://ryancyeung.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "ryancyeung/ryancyeung.github.io"
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
-breadcrumbs              : false # true, false (default)
-words_per_minute         : 160
-future                   : true
-read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
-talkmap_link             : false #change to true to add link to talkmap on talks page
+locale: "en-CA"
+title: "Pelin Tanberg"
+title_separator: "-"
+name: &name "Pelin Tanberg"
+description: &description "Pelin Tanberg's Personal Webpage"
+url: https://pelintanberg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl: "" # the subpath of your site, e.g. "/blog"
+repository: "pelintanberg/pelintanberg.github.io"
+teaser: # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+breadcrumbs: false # true, false (default)
+words_per_minute: 160
+future: true
+read_more: "disabled" # if enabled, adds "Read more" links to excerpts
+talkmap_link: false #change to true to add link to talkmap on talks page
 comments:
-  provider               : # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
+  provider: # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman", "custom"
   disqus:
-    shortname            :
+    shortname:
   discourse:
-    server               : # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
+    server: # https://meta.discourse.org/t/embedding-discourse-comments-via-javascript/31963 , e.g.: meta.discourse.org
   facebook:
-    appid                :
-    num_posts            : # 5 (default)
-    colorscheme          : # "light" (default), "dark"
+    appid:
+    num_posts: # 5 (default)
+    colorscheme: # "light" (default), "dark"
 staticman:
-  allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
-  commitMessage          : "New comment."
-  filename               : comment-{@timestamp}
-  format                 : "yml"
-  moderation             : true
-  path                   : "_data/comments/{options.slug}"
-  requiredFields         : ['name', 'email', 'message']
+  allowedFields: ["name", "email", "url", "message"]
+  branch: "gh-pages" # "master", "gh-pages"
+  commitMessage: "New comment."
+  filename: comment-{@timestamp}
+  format: "yml"
+  moderation: true
+  path: "_data/comments/{options.slug}"
+  requiredFields: ["name", "email", "message"]
   transforms:
-    email                : "md5"
+    email: "md5"
   generatedFields:
     date:
-      type               : "date"
+      type: "date"
       options:
-        format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format: "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  path                   : # blank (default) uses feed.xml
-github                   : [metadata]
+  path: # blank (default) uses feed.xml
+github: [metadata]
 
 # SEO Related
-google_site_verification : google5a2f48711105f36a.html
-bing_site_verification   :
-alexa_site_verification  :
-yandex_site_verification :
+google_site_verification: google5a2f48711105f36a.html
+bing_site_verification:
+alexa_site_verification:
+yandex_site_verification:
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username: &twitter
 facebook:
-  username               :
-  app_id                 :
-  publisher              :
-og_image                 :  # Open Graph/Twitter default site image
+  username:
+  app_id:
+  publisher:
+og_image: # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
-  type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  type: # Person or Organization (defaults to Person)
+  name: # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
-
 
 # Analytics
 analytics:
-  provider               : "google" # false (default), "google", "google-universal", "custom"
+  provider: "google" # false (default), "google", "google-universal", "custom"
   google:
-    tracking_id          : "G-0K8JMEP9E4"
-
+    tracking_id: "G-0K8JMEP9E4"
 
 # Site Author
 author:
-  name             : "Ryan Yeung"
-  avatar           : "Ryan_Profile_Picture.jpg"
-  bio              : "Postdoctoral Fellow @ Rotman Research Institute (Levine Lab)"
-  location         : "Toronto, ON, Canada"
-  employer         : "Baycrest Health Sciences"
-  employeruri      : "https://levinelab.weebly.com/"
-  education        : "PhD @ UWaterloo"
-  educationuri     : "https://uwaterloo.ca/cognitive-neuroscience-lab/"
-  pubmed           : 
-  googlescholar    : "https://scholar.google.ca/citations?user=bulW1o4AAAAJ"
-  email            :
-  researchgate     : "https://www.researchgate.net/profile/Ryan-Yeung-4"
-  uri              : 
-  bitbucket        :
-  codepen          :
-  dribbble         :
-  flickr           :
-  facebook         :
-  foursquare       :
-  github           : "ryancyeung"
-  google_plus      :
-  keybase          :
-  instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
-  lastfm           :
-  linkedin         : "rcyeung"
-  orcid            : "https://orcid.org/0000-0002-6966-6834"
-  pinterest        :
-  soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
-  steam            :
-  tumblr           :
-  twitter          : "rcyeung"
-  vine             :
-  weibo            :
-  xing             :
-  youtube          :
-  wikipedia        :
-
+  name: "Ryan Yeung"
+  avatar: "Ryan_Profile_Picture.jpg"
+  bio: "Postdoctoral Fellow @ Rotman Research Institute (Levine Lab)"
+  location: "Toronto, ON, Canada"
+  employer: "Baycrest Health Sciences"
+  employeruri: "https://levinelab.weebly.com/"
+  education: "PhD @ UWaterloo"
+  educationuri: "https://uwaterloo.ca/cognitive-neuroscience-lab/"
+  pubmed:
+  googlescholar: "https://scholar.google.ca/citations?user=bulW1o4AAAAJ"
+  email:
+  researchgate: "https://www.researchgate.net/profile/Ryan-Yeung-4"
+  uri:
+  bitbucket:
+  codepen:
+  dribbble:
+  flickr:
+  facebook:
+  foursquare:
+  github: "ryancyeung"
+  google_plus:
+  keybase:
+  instagram:
+  impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  lastfm:
+  linkedin: "rcyeung"
+  orcid: "https://orcid.org/0000-0002-6966-6834"
+  pinterest:
+  soundcloud:
+  stackoverflow: # http://stackoverflow.com/users/123456/username
+  steam:
+  tumblr:
+  twitter: "rcyeung"
+  vine:
+  weibo:
+  xing:
+  youtube:
+  wikipedia:
 
 # Reading Files
 include:
@@ -156,14 +153,12 @@ keep_files:
 encoding: "utf-8"
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 
-
 # Conversion
 markdown: kramdown
 highlighter: rouge
 lsi: false
 excerpt_separator: "\n\n"
 incremental: false
-
 
 # Markdown Processing
 kramdown:
@@ -175,7 +170,6 @@ kramdown:
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
   enable_coderay: false
-
 
 # Collections
 collections:
@@ -191,7 +185,6 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
-
 
 # Defaults
 defaults:
@@ -254,13 +247,11 @@ sass:
   sass_dir: _sass
   style: compressed # http://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
 
-
 # Outputting
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
 timezone: America/Toronto # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-
 
 # Plugins
 plugins:
@@ -277,7 +268,6 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jemoji
-
 
 # Archives
 #  Type
@@ -306,7 +296,6 @@ tag_archive:
 #   permalinks:
 #     category: /categories/:name/
 #     tag: /tags/:name/
-
 
 # HTML Compression
 # - http://jch.penibelst.de/
