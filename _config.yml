@@ -79,18 +79,18 @@ analytics:
 
 # Site Author
 author:
-  name: "Ryan Yeung"
-  avatar: "Ryan_Profile_Picture.jpg"
-  bio: "Postdoctoral Fellow @ Rotman Research Institute (Levine Lab)"
+  name: "Pelin Tanberg"
+  avatar: "Pelin_Profile_Picture.jpg"
+  bio: "Postdoctoral Fellow @ Toronto Metropolitan University (Memory & Decision Processes Lab)"
   location: "Toronto, ON, Canada"
   employer: "Baycrest Health Sciences"
-  employeruri: "https://levinelab.weebly.com/"
-  education: "PhD @ UWaterloo"
-  educationuri: "https://uwaterloo.ca/cognitive-neuroscience-lab/"
+  employeruri: "https://psychlabs.torontomu.ca/madlab/portfolio/dr-pelin-tanberg/"
+  education: "PhD in Cognitive Science @ UWaterloo"
+  educationuri: "https://www.torontomu.ca/graduate/postdoctoral-fellows/torontomet-postdoctoral-fellows/postdoc-bios/pelin-tanberg/"
   pubmed:
-  googlescholar: "https://scholar.google.ca/citations?user=bulW1o4AAAAJ"
+  googlescholar: 
   email:
-  researchgate: "https://www.researchgate.net/profile/Ryan-Yeung-4"
+  researchgate: 
   uri:
   bitbucket:
   codepen:
@@ -98,20 +98,20 @@ author:
   flickr:
   facebook:
   foursquare:
-  github: "ryancyeung"
+  github: "pelintanberg"
   google_plus:
   keybase:
   instagram:
   impactstory: #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm:
-  linkedin: "rcyeung"
-  orcid: "https://orcid.org/0000-0002-6966-6834"
+  linkedin: "pelintanberg"
+  orcid: "https://orcid.org/0000-0001-5073-4844"
   pinterest:
   soundcloud:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: "rcyeung"
+  twitter: 
   vine:
   weibo:
   xing:
