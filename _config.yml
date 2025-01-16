@@ -80,17 +80,17 @@ analytics:
 # Site Author
 author:
   name: "Pelin Tanberg"
-  avatar: "Pelin_Profile_Picture.jpg"
+  avatar: "Pelin_Profile_Picture.jpg.jpg"
   bio: "Postdoctoral Fellow @ Toronto Metropolitan University (Memory & Decision Processes Lab)"
   location: "Toronto, ON, Canada"
   employer: "Baycrest Health Sciences"
   employeruri: "https://psychlabs.torontomu.ca/madlab/portfolio/dr-pelin-tanberg/"
-  education: "PhD in Cognitive Science @ UWaterloo"
+  education: "PhD Cognitive Science @ UWaterloo"
   educationuri: "https://www.torontomu.ca/graduate/postdoctoral-fellows/torontomet-postdoctoral-fellows/postdoc-bios/pelin-tanberg/"
   pubmed:
-  googlescholar: 
+  googlescholar:
   email:
-  researchgate: 
+  researchgate:
   uri:
   bitbucket:
   codepen:
@@ -111,7 +111,7 @@ author:
   stackoverflow: # http://stackoverflow.com/users/123456/username
   steam:
   tumblr:
-  twitter: 
+  twitter:
   vine:
   weibo:
   xing:
