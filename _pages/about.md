@@ -24,6 +24,14 @@ redirect_from:
 
 ## Bio 
 
+I received my PhD in Cognitive Science from the University of Waterloo, MSc in Cognitive Neuroscience from Queen's University, and BSc in Biology & Psychology from Wilfrid Laurier University. I have received several awards for my academic, teaching, and research achievements, most notably the Alexander Graham Bell Canada Graduate Scholarship (top-ranked applicant) and the Michael Smith Foreign Fellowship to collaborate with Dr. Klaus Oberauer at the University of Zurich in Switzerland. Both awards were funded by the National Science and Engineering Research Council (NSERC). I have also received three teaching awards from Queen's University, including the SGPS Teaching Fellow Excellence Award. Finally, I was awarded the Donald O. Hebb Graduate Student Award for Best Oral Presentation (Hon. Mention) in July 2023 for my presentation on the role of context on human memory organization. 
+
+I am passionate about increasing diversity and inclusion in research and have been an active member of the academic community. I have served as a Trainee Board Member of [Women in Cognitive Science Canada+](https://wicsc.ca/), the Associate Member-at-Large for the [Canadian Society for Brain, Behaviour, and Cognitive Science] (https://www.csbbcs.org/home), the Graduate Student Representation for the [Healthy Labs group] (https://uwaterloo.ca/healthy-labs-psychology/) at the University of Waterloo to advocate for inclusion in lab environment, and member of the Equity, Diversity, and Inclusion group for the [Canadian Society for Brain, Behaviour, and Cognitive Science] (https://www.csbbcs.org/home). 
+
+👩🏻‍🍳 Outside of research, I spend all my time cooking and developing new recipes. I am currently attending 
+💐✒️ On the weekends, I dabble in wedding coordination, calligraphy, and floral design freelancing with the amazing [Dereves Studio] (https://www.derevesstudio.com/). 
+
+I am a self-proclaimed Potterhead ⚡🧙 and a sunset chaser 🌆. 
 
 
 
