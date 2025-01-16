@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+
+
 👩🏻‍💻 I am a Postdoctoral Researcher in the Department of Psychology at the Toronto Metropolitan University. I am part of the [Memory and Decision Processing Lab](https://psychlabs.torontomu.ca/madlab/).
 
 Broadly speaking, I study how *real-life memories shape (and are shaped by) individuals' cognitive and neural profiles.* My research interests lie at the interface of memory, emotion, and psychopathology.
