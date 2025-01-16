@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋 Hello there, I'm Pelin!"
+title: "👋  Hello there, I'm Pelin!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -12,9 +12,20 @@ redirect_from:
 
 👩🏻‍💻 I am a Postdoctoral Researcher in the Department of Psychology at the Toronto Metropolitan University. I am part of the [Memory and Decision Processing Lab](https://psychlabs.torontomu.ca/madlab/).
 
-Broadly speaking, I study how *real-life memories shape (and are shaped by) individuals' cognitive and neural profiles.* My research interests lie at the interface of memory, emotion, and psychopathology.
+🔬 My research focuses on bridging cognitive science and human-computer interaction. 
 
-My recent work has focused on *recurrent memories*, or memories of the personal past that spring to mind unintentionally and repetitively (sometimes called intrusive memories). For example, I have tackled questions like:
+🧠 As a Cognitive Scientist, I am interested in how humans adaptively monitor, control, and organize their own thought processes to combat cognitive overload. 
+
+⚙️ My recent work focuses on leveraging insights from cognitive psychology of memory and metacognition to study human-AI interactions and designing trustworthy and reliable technological systems. 
+
+🎓 I completed my PhD in Cognitive Science at the University of Toronto. I was part of the [Memory, Attention, and Cognition Lab](https://uwaterloo.ca/memory-attention-cognition-lab) and the [Cognitive Neuroscience Lab](https://uwaterloo.ca/cognitive-neuroscience-lab/), co-supervised by Dr. Colin MacLeod and Dr. Myra Fernandes. I also received a Graduate Diploma in Computational Data Analytics for the Social Sciences and Humanities. 
+
+🔎 I am looking for research job and collaboration opportunities that focus on integrating insights from cognitive sciences to shaping the future of technology. 
+
+## Bio 
+
+
+
 
 > ### What predicts recurrent memories? 🔮
 Are there properties of specific memories (e.g., their emotionality) or people (e.g., their age) that predict the quantity and/or quality of recurrent memories?
