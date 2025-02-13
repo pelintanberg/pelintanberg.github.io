@@ -18,7 +18,7 @@ Queen's University Research Methods in Psychology Course. Invited Lecturer. "Des
 
 Queen's University Laboratory in Attention Course. Invited Lecturer. "Intentional Forgetting: How Do We Forget on Demand?" October, 2018. 
 
-## Conference Talks
+## <span style="color: #132d10; font-weight:bold">Conference Talks</span> 
 <b>Tanberg, P.</b>, Fernandes, M. A., & MacLeod, C. M. (November, 2024). A rapid selective retrieval account of intentional forgetting at encoding. Talk presented at the annual meeting of the <i>Psychonomic Society</i>, New York, NY, USA.
 
 <b>Tanberg, P.</b>, & Oberauer, K. (November, 2023). Item-method directed forgetting: No evidence for cue-independent inhibition. Talk presented at the annual meeting of the <i>Psychonomic Society</i>, San Francisco, CA, USA.
@@ -40,4 +40,4 @@ Queen's University Laboratory in Attention Course. Invited Lecturer. "Intentiona
 
 <b>Tan, P.</b>, Ensor, T. M., Hockley, W. E., Harrison, G. W., & Wilson, D. E. (June, 2019). Exploring the impact of conflicting memory instructions on intentional forgetting. Talk presented at the annual meeting of the <i>Canadian Society for Brain, Behaviour, and Cognitive Science</i>, Waterloo, ON, CA.
 
-## Conference Poster Presentations
+## <span style="color: #132d10; font-weight:bold">Conference Poster Presentations</span> 
