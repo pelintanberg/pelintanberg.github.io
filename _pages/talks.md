@@ -7,7 +7,7 @@ author_profile: true
 
 <hr>
 
-## <span style="color: #ff0084;">Invited Talks & Panels</span> 
+## <span style="color: #132d10; font-weight:bold">Invited Talks & Panels</span> 
 Toronto Metropolitan University Applied Cognitive Neuroscience Seminar. Invited Talk. "A Rapid Selective Retrieval Account of Intentional Memory Control". February, 2025. 
 
 Queen's University NeuGeneration Conference. Invited Panelist on Interactive Q&A Session on the Neuroscience of Memory and AI. January, 2025.
