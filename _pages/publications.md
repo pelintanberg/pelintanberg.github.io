@@ -20,7 +20,7 @@ author_profile: true
   {% endif %}
 {% endfor %}
 
-**{{ site.publications | size }}** publications in peer-reviewed academic journals, with **{{ counter }}** published as first author.
+12 publications in peer-reviewed academic journals, with 1 published as first author.
 
 <hr>
 
