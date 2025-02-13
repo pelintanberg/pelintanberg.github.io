@@ -41,3 +41,34 @@ Queen's University Laboratory in Attention Course. Invited Lecturer. "Intentiona
 <b>Tan, P.</b>, Ensor, T. M., Hockley, W. E., Harrison, G. W., & Wilson, D. E. (June, 2019). Exploring the impact of conflicting memory instructions on intentional forgetting. Talk presented at the annual meeting of the <i>Canadian Society for Brain, Behaviour, and Cognitive Science</i>, Waterloo, ON, CA.
 
 ## <span style="color: #132d10; font-weight:bold">Conference Poster Presentations</span> 
+<b>Tanberg, P.</b>, Fernandes, M. A., MacLeod, C. M., & Hockley, W. E. (July, 2023). Revisiting the effect of cue duration in item-method directed forgetting. Poster presented at the annual meeting of the <i>Canadian Society for Brain, Behaviour, and Cognitive Science</i>, Guelph, ON, CA.
+
+<b>Tanberg, P.</b>, & MacLeod, C. M. (November, 2022). Part-list cuing impairment is reduced when to-be-forgotten items serve as the cues. Poster presented at the annual meeting of the <i>Psychonomic Society</i>, Boston, MA, USA. 
+
+<b>Tanberg, P.</b>, Yeung, R. C., Sullivan, K. L., & Fernandes, M. A. (July, 2022). Musical cues enhance the quantity and quality of autobiographical memories. Poster presented at the annual meeting of the <i>Canadian Society for Brain, Behaviour, and Cognitive Science</i>, Halifax, NS, CA. 
+
+<b>Tan, P.</b>, & Hockley, W. E. (November, 2021). The role of maintenance and elaborative rehearsal in item and associative memory. Virtual poster presented at the annual meeting of the <i>Psychonomic Society</i>, New Orleans, LA, USA.
+
+Liu, L., <b>Tan, P.</b>, & MacLeod, C. M. (June, 2021). The implicit association test meets contingency learning: A validation study. Poster presented at the annual <i>Ontario Psychology Undergraduate Thesis Conference</i>, Hamilton, ON, CA. 
+
+<b>Tan, P.</b>, Hockley, W. E., & MacLeod, C. M. (November, 2020). Incidental and intentional encoding of associative information in double-item presentation of item-method directed forgetting. Poster presented at the annual meeting of the <i>Psychonomic Society</i>, Austin, TX, USA.
+
+<b>Tan, P.</b>, & Hockley, W. E. (November, 2019). Distractor-induced forgetting in the item-method directed forgetting paradigm as a function of item duration. Poster presented at the annual meeting of the <i>Psychonomic Society</i>, Montreal, QC, CA.
+
+Harrison, G. W., Blumberg, M., Wilde, J., <b>Tan, P.</b>, & Wilson, D. E. (November, 2019). Task demands increase priming from long-term memory in visual search. Poster presented at the annual meeting of <i>Object, Perception, Attention, and Memory</i>, Montreal, QC, CA. 
+
+<b>Tan, P.</b>, Caplan, E., Ensor, T. M., & Wilson, D. E. (June, 2019). Investigating memory for pictures in directed forgetting using the double-item paradigm. Poster presented at the annual meeting of the <i>Canadian Society for Brain, Behaviour and Cognitive Science</i>, Waterloo, ON, CA.
+
+Blumberg, M., Harrison, G. W., Wilde, J., <b>Tan, P.</b>, & Wilson, D. E. (June, 2019). Impact of perceptual load on memory retrieval. Poster presented at the annual meeting of the <i>Canadian Society for Brain, Behaviour, and Cognitive Science</i>, Waterloo, ON, CA. 
+
+<b>Tan, P.</b>, & Wilson, D. E. (May, 2019). Pushing the boundaries of the selective rehearsal account in directed forgetting: A novel investigation of the double-item paradigm. Poster presented at the annual meeting of the <i>Association for Psychological Science</i>, Washington, DC, USA.
+
+<b>Tan, P.</b>, Ahmad, F. N., & Hockley, W. E. (July, 2018). The costs and benefits of item-based directed forgetting for pictures: Memory for perceptual details versus gist. Poster presented at the annual meeting of the <i>Canadian Society for Brain, Behaviour, and Cognitive Science</i>, St. John’s, NL, CA.
+
+</b>Tan, P.<b>, Carson, K., & Menard, J. L. (May, 2018). Regular provision of a foraging treat in the home-cage has variable effects on the baseline behaviours of rats in tests of anxiety. Poster presented at the annual meeting of the <i>Southern Ontario Neuroscience Association</i>, Guelph, ON,CA. Regional. 
+
+Zucconi, K., <b>Tan, P.</b>, Dringenberg, H. C., & Menard, J. L. (May, 2018). Modest environmental enrichment enhanced memory and spatial learning in rats. Poster presented at the annual meeting of the <i>Southern Ontario Neuroscience Association</i>, Guelph, ON, CA.
+
+<b>Tan, P.</b>, Ahmad, F. N., & Hockley, W. E. (June, 2017). Item-based directed forgetting for pictures: Memories for perceptual details versus gist. Poster presented at the annual meeting of the <i>Canadian Society for Brain, Behaviour, and Cognitive Science</i>, Regina, SK, CA. 
+
+<b>Tan, P.</b>, Schneider, A., & Mallet, P. E. (May, 2017). Reduction of palatable food intake by a cannabinoid receptor neutral antagonist. Poster presented at the annual meeting of the <i>Southern Ontario Neuroscience Association</i>, St. Catherine’s, ON, CA. 
