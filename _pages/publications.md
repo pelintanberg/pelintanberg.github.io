@@ -27,3 +27,10 @@ Ahmad, F., <b>Tan, P.</b>, & Hockley, W. E. (2019). Directed forgetting for cate
 <b>Tanberg, P.</b>, & Hockley, W. E. (under review, 2024). Revisiting rehearsal in intentional forgetting: Does reducing rehearsal with distraction mimic directed forgetting? [View preprint here] ()<br>
 
 <b>Tanberg, P.</b>, Yeung, R. C., & Fernandes, M. A. (under revision, 2024). Evidence of temporal and emotional alignment between music cues and their evoked autobiographical memories. [View preprint here] ()
+
+## Manuscripts In Preparation 
+<b>Tanberg, P.</b>, & Oberauer, K. (in prep.). Cue independence in item-method directed forgetting: No evidence for inhibition. 
+
+<b>Tanberg, P.</b>, & MacLeod, C. M. (in prep.). Forgotten no more: Presenting to-be-forgotten information as retrieval cues improves memory.
+
+<b>Tanberg, P.</b>, Fernandes, M. A., & MacLeod, C. M. (in prep.). Repeated exposure eliminates the directed forgetting effect. 
