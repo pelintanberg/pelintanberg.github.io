@@ -7,7 +7,8 @@ author_profile: true
 
 <hr>
 <br> 
-Publications under Pelin Tan/Tanberg
+
+### Publications under Pelin Tan/Tanberg
 <br> 
 
 ## Peer-Reviewed Journal Articles
