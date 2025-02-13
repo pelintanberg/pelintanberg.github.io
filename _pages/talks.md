@@ -26,7 +26,7 @@ Queen's University Laboratory in Attention Course. Invited Lecturer. "Intentiona
 <b>Tanberg, P.</b>, Fernandes, M. A., & MacLeod, C. M. (September, 2023). Recognized items resist intentional forgetting: A retrieval account of item-method directed forgetting. Talk presented at the annual meeting of <i>European Society for Cognitive Psychology</i>, Porto, Portugal.
 
 <b>Tanberg, P.</b>, & MacLeod, C. M. (July, 2023). Forgotten no more: To-be-forgotten information as retrieval cues improve memory. Talk presented at the annual meeting of the <i>Canadian Society for Brain, Behaviour, and Cognitive Science</i>, Guelph, ON, CA.
-<b><i>*Winner of Best Talk Honournable Mention</b></i>
+<b><i>*Winner of Best Talk Honournable Mention</i></b>
 
 <b>Tanberg, P.</b>, & MacLeod, C. M. (July, 2023). Bringing the forgotten back to life: Providing to-be-forgotten information as retrieval cues improves memory. Talk presented at the annual meeting of <i>Cognitive Science Society</i>, Sydney, Australia. 
 
