@@ -2,14 +2,16 @@
 layout: about
 title: about
 permalink: /
-subtitle: cognitive scientist | 
+subtitle: cognitive scientist | stats enthusiast | interdisciplinary memory researcher | chef-in-training 
 
 profile:
   align: right
   image: headshot_PT_1.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Postdoctoral Fellow at <a href='https://readylab.mie.utoronto.ca/'>READY Lab</a> & <a href='https://michaelinzlicht.com/#lab-view'>Work & Play Lab</a></p>
+    <p>Postdoctoral Fellow </p> 
+    <p><a href='https://readylab.mie.utoronto.ca/'>READY Lab</a> </p> 
+    <p><a href='https://michaelinzlicht.com/#lab-view'>Work & Play Lab</a></p>
     <p>University of Toronto</p>
     <p>Toronto, ON, Canada</p>
 
