@@ -6,12 +6,12 @@ subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
   align: right
-  image: headshot_PT_1.jpg
+  image: headshot_PT_1.JPG
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Postdoctoral Fellow at <a href='https://readylab.mie.utoronto.ca/'>READY Lab</a> & <a href='https://michaelinzlicht.com/#lab-view'>Work & Play Lab</a></p>
+    <p>University of Toronto</p>
+    <p>Toronto, ON, Canada</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
