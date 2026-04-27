@@ -7,7 +7,7 @@
 .navbar {
   box-shadow: none;
   border-bottom: 1px solid var(--global-divider-color);
-  background-color: var(--global-bg-color);
+  background-color: #355E3B;
   opacity: 0.95;
 }
 
@@ -56,11 +56,11 @@
   }
 
   .navbar-brand {
-    color: var(--global-text-color);
+    color: white;
   }
 
   .navbar-nav .nav-item .nav-link {
-    color: var(--global-text-color);
+    color: white;
 
     &:hover {
       color: var(--global-hover-color);
